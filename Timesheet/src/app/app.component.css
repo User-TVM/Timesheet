@@ -1,0 +1,14 @@
+.footerBlock
+{
+    
+    width:5vw;
+    height:92vh ;
+    opacity: 80%;
+    background-image: linear-gradient(to right, #0D1726 , #67625C);
+}
+.bodyBlock
+{
+    
+    width:95vw;
+    height:auto;
+}
